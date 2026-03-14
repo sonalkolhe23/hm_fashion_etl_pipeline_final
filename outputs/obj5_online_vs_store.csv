@@ -1,0 +1,221 @@
+department_name,channel_name,num_transactions,total_revenue,avg_price
+Accessories,Unknown,40,0.58,0.0146
+AK Bottoms,Unknown,8,0.26,0.032
+AK Dresses & Outdoor,Unknown,10,0.53,0.0528
+AK Tops Jersey & Woven,Unknown,5,0.17,0.0339
+Baby basics,Unknown,125,1.83,0.0147
+Baby Boy Jersey Fancy,Unknown,100,1.76,0.0176
+Baby Boy Knitwear,Unknown,18,0.28,0.0156
+Baby Boy Outdoor,Unknown,13,0.4,0.0307
+Baby Boy Woven,Unknown,63,1.21,0.0193
+Baby Exclusive,Unknown,57,1.42,0.0248
+Baby Girl Jersey Fancy,Unknown,40,0.54,0.0136
+Baby Girl Knitwear,Unknown,41,0.72,0.0176
+Baby Girl Outdoor,Unknown,11,0.34,0.0308
+Baby Girl Woven,Unknown,29,0.63,0.0216
+Baby Nightwear,Unknown,59,0.75,0.0127
+Baby Shoes,Unknown,43,0.84,0.0195
+Baby Socks,Unknown,53,0.55,0.0103
+Baby Toys/Acc,Unknown,51,0.59,0.0116
+Bags,Unknown,275,8.25,0.03
+Bags & Items,Unknown,2,0.12,0.06
+Basic 1,Unknown,1850,26.85,0.0145
+Basics,Unknown,287,5.65,0.0197
+Belts,Unknown,232,4.26,0.0184
+Blazer,Unknown,8,1.23,0.1535
+Blazer S&T,Unknown,24,1.64,0.0684
+Blouse,Unknown,2454,69.89,0.0285
+Blouse & Dress,Unknown,171,9.89,0.0578
+Boots,Unknown,267,16.75,0.0627
+Bottoms,Unknown,2,0.03,0.0169
+Bottoms Girls,Unknown,38,0.7,0.0185
+Boys Local Relevance,Unknown,88,1.46,0.0166
+Campaigns,Unknown,1885,43.27,0.023
+Casual Lingerie,Unknown,641,13.41,0.0209
+Clean Lingerie,Unknown,132,2.68,0.0203
+Denim Other Garments,Unknown,207,8.87,0.0429
+Denim shorts,Unknown,20,0.49,0.0246
+Denim trousers,Unknown,198,9.47,0.0478
+Denim Trousers,Unknown,1812,75.22,0.0415
+Denim wardrobe H&M man inactive from S.6,Unknown,7,0.45,0.0644
+Divided Shoes,Unknown,224,7.49,0.0335
+Divided Swimwear,Unknown,25,0.49,0.0195
+Divided+,Unknown,142,4.87,0.0343
+Divided+ inactive from s.1,Unknown,34,0.67,0.0198
+Dress,Unknown,845,32.02,0.0379
+Dress-up Boys,Unknown,6,0.16,0.0263
+Dresses,Unknown,664,17.98,0.0271
+Dresses DS,Unknown,207,7.51,0.0363
+EQ & Special Collections,Unknown,41,0.56,0.0136
+Equatorial,Unknown,1,0.02,0.0169
+Equatorial Assortment,Unknown,50,1.44,0.0288
+Everyday Waredrobe Denim,Unknown,193,5.71,0.0296
+Expressive Lingerie,Unknown,1777,39.17,0.022
+Flats,Unknown,230,4.63,0.0201
+Functional Lingerie,Unknown,132,4.04,0.0306
+Girls Local Relevance,Unknown,5,0.08,0.0155
+Girls Projects,Unknown,2,0.03,0.0157
+Girls Small Acc/Bags,Unknown,64,0.36,0.0057
+Gloves/Hats,Unknown,98,1.63,0.0167
+H&M Man,Unknown,6,0.51,0.0847
+Hair Accessories,Unknown,131,0.89,0.0068
+Heavy Basic Jersey,Unknown,22,0.62,0.0281
+Heels,Unknown,125,4.21,0.0337
+Jacket,Unknown,2,0.45,0.2273
+Jacket Casual,Unknown,19,1.3,0.0685
+Jacket Smart,Unknown,23,1.63,0.0709
+Jacket Street,Unknown,12,0.8,0.0668
+Jackets,Unknown,2,0.12,0.061
+Jersey,Unknown,1874,49.69,0.0265
+Jersey Basic,Unknown,2284,35.73,0.0156
+Jersey fancy,Unknown,1259,26.04,0.0207
+Jersey Fancy,Unknown,302,6.38,0.0211
+Jersey Fancy DS,Unknown,162,4.04,0.025
+Jersey inactive from s1,Unknown,44,1.01,0.023
+Jersey License,Unknown,14,0.36,0.0259
+Jersey Occasion,Unknown,165,6.26,0.0379
+Jersey/Knitwear Premium,Unknown,38,5.21,0.1371
+Jewellery,Unknown,349,4.24,0.0121
+Jewellery Extended,Unknown,66,1.06,0.016
+Kids Boy Big Acc,Unknown,16,0.18,0.011
+Kids Boy Denim,Unknown,75,1.88,0.0251
+Kids Boy Jersey Basic,Unknown,79,1.23,0.0156
+Kids Boy Jersey Fancy,Unknown,169,2.97,0.0176
+Kids Boy Knitwear,Unknown,19,0.45,0.0235
+Kids Boy License,Unknown,1,0.02,0.0158
+Kids Boy Outdoor,Unknown,38,1.72,0.0451
+Kids Boy Shirt,Unknown,57,1.39,0.0245
+Kids Boy Shoes,Unknown,32,1.13,0.0353
+Kids Boy Shorts,Unknown,2,0.02,0.0085
+Kids Boy Socks,Unknown,16,0.19,0.0119
+Kids Boy Swimwear,Unknown,12,0.15,0.0121
+Kids Boy Trouser,Unknown,59,1.17,0.0198
+Kids Boy UW/NW,Unknown,36,0.61,0.017
+Kids Dress-up/Football,Unknown,22,0.45,0.0206
+Kids Girl Big Acc,Unknown,18,0.21,0.0118
+Kids Girl Denim,Unknown,73,1.84,0.0253
+Kids Girl Dresses,Unknown,89,2.1,0.0236
+Kids Girl Jersey Basic,Unknown,97,1.37,0.0142
+Kids Girl Jersey Fancy,Unknown,198,3.11,0.0157
+Kids Girl Knitwear,Unknown,82,1.87,0.0228
+Kids Girl Outdoor,Unknown,18,0.81,0.0448
+Kids Girl S&T,Unknown,70,1.06,0.0152
+Kids Girl Shoes,Unknown,40,1.46,0.0365
+Kids Girl Swimwear,Unknown,4,0.03,0.0068
+Kids Girl Trouser,Unknown,27,0.46,0.0172
+Kids Girl UW/NW,Unknown,31,0.48,0.0154
+Knit & Woven,Unknown,218,4.54,0.0208
+Knitwear,Unknown,3431,121.02,0.0353
+Knitwear Basic,Unknown,648,15.56,0.024
+Knitwear inactive from s1,Unknown,10,0.39,0.0392
+Ladies Sport Acc,Unknown,105,1.89,0.018
+Ladies Sport Bottoms,Unknown,555,18.56,0.0334
+Ladies Sport Bras,Unknown,970,23.28,0.024
+Ladies Sport Woven,Unknown,52,2.11,0.0407
+Light Basic Jersey,Unknown,123,2.12,0.0173
+Limited Edition,Unknown,3,0.29,0.096
+Local relevance,Unknown,2,0.12,0.0593
+Loungewear,Unknown,222,3.97,0.0179
+Mama Lingerie,Unknown,45,1.12,0.0249
+Men Sport Acc,Unknown,12,0.12,0.0103
+Men Sport Bottoms,Unknown,7,0.16,0.0226
+Men Sport Tops,Unknown,38,1.83,0.0483
+Men Sport Woven,Unknown,30,0.41,0.0138
+Newborn,Unknown,128,2.54,0.0198
+Nightwear,Unknown,372,10.68,0.0287
+Nursing,Unknown,40,1.19,0.0297
+OL Extended Sizes,Unknown,59,3.52,0.0597
+On Demand,Unknown,7,0.15,0.0212
+Other Accessories,Unknown,39,0.34,0.0086
+Other items,Unknown,81,1.62,0.02
+Outdoor inactive from s1,Unknown,9,0.86,0.096
+Outdoor/Blazers,Unknown,302,17.35,0.0574
+Outdoor/Blazers DS,Unknown,57,3.54,0.0622
+Outwear,Unknown,862,80.0,0.0928
+Outwear & Blazers,Unknown,70,11.54,0.1649
+Premium Quality,Unknown,152,11.34,0.0746
+Price Items,Unknown,1,0.03,0.0254
+Projects,Unknown,11,0.3,0.0272
+Projects Dresses,Unknown,209,8.81,0.0422
+Projects Jersey & Knitwear,Unknown,165,3.85,0.0233
+Projects Woven Bottoms,Unknown,53,1.43,0.0269
+Projects Woven Tops,Unknown,65,2.04,0.0314
+Promotion/ Other /Offer,Unknown,32,1.02,0.0317
+Promotion/Other/Offer,Unknown,2,0.02,0.0119
+Read & React,Unknown,144,4.64,0.0322
+Scarves,Unknown,149,3.04,0.0204
+Shirt,Unknown,117,3.82,0.0326
+Shirt S&T,Unknown,91,2.68,0.0295
+Shoes,Unknown,15,0.78,0.0518
+Shoes / Boots inactive from s5,Unknown,9,0.59,0.0655
+Shopbasket Lingerie,Unknown,5,0.08,0.0169
+Shopbasket Socks,Unknown,273,3.55,0.013
+Shorts,Unknown,246,4.55,0.0185
+Shorts & Skirts,Unknown,30,0.52,0.0173
+Skirt,Unknown,539,21.59,0.0401
+Skirts,Unknown,404,10.79,0.0267
+Skirts DS,Unknown,8,0.3,0.0379
+Small Acc. Jewellery & Other,Unknown,2,0.03,0.0131
+Small Accessories,Unknown,139,1.2,0.0086
+Small Bags,Unknown,105,3.18,0.0303
+Sneakers,Unknown,128,5.2,0.0406
+Sneakers big girl inactive from s2,Unknown,7,0.19,0.0276
+Sneakers small girl inactive from s2,Unknown,7,0.1,0.0146
+Socks,Unknown,78,1.14,0.0146
+Socks Bin,Unknown,91,0.91,0.01
+Socks Wall,Unknown,1,0.01,0.0051
+Special Collection,Unknown,8,0.78,0.0979
+Studio Collection,Unknown,138,16.15,0.1171
+Suit,Unknown,284,15.73,0.0554
+Suit jacket,Unknown,286,16.14,0.0564
+Sunglasses,Unknown,46,0.67,0.0147
+Swimwear,Unknown,1297,20.95,0.0162
+Take Care External,Unknown,135,14.48,0.1072
+Tights basic,Unknown,547,6.62,0.0121
+Tops & Bottoms Other,Unknown,25,0.42,0.0169
+Tops Fancy Jersey,Unknown,1199,21.43,0.0179
+Tops Girls,Unknown,46,0.89,0.0194
+Tops Knitwear,Unknown,1274,29.65,0.0233
+Tops Knitwear DS,Unknown,122,3.64,0.0298
+Tops Woven,Unknown,680,15.02,0.0221
+Tops woven DS,Unknown,28,0.95,0.0338
+Trouser,Unknown,3660,120.85,0.033
+Trouser S&T,Unknown,20,0.85,0.0425
+Trousers,Unknown,1122,35.6,0.0317
+Trousers & Skirt,Unknown,115,9.01,0.0784
+Trousers DS,Unknown,84,3.13,0.0372
+Underwear Jersey,Unknown,53,1.19,0.0225
+Underwear Woven,Unknown,6,0.2,0.0339
+UW,Unknown,158,2.07,0.0131
+Woven,Unknown,3,0.25,0.083
+Woven bottoms,Unknown,262,10.9,0.0416
+Woven inactive from s1,Unknown,8,0.28,0.0347
+Woven Occasion,Unknown,263,12.93,0.0492
+Woven Premium,Unknown,26,5.36,0.206
+Woven top,Unknown,163,5.27,0.0323
+Woven Tops,Unknown,22,0.91,0.0414
+Young Boy Big Acc,Unknown,14,0.15,0.0105
+Young Boy Denim,Unknown,162,5.45,0.0337
+Young Boy Jersey Basic,Unknown,97,1.68,0.0173
+Young Boy Jersey Fancy,Unknown,224,3.81,0.017
+Young Boy Knitwear,Unknown,20,0.45,0.0224
+Young Boy Outdoor,Unknown,29,1.74,0.0601
+Young Boy Shirt,Unknown,37,0.91,0.0247
+Young Boy Shoes,Unknown,25,0.91,0.0363
+Young Boy Shorts,Unknown,18,0.19,0.0106
+Young Boy Socks,Unknown,16,0.21,0.0132
+Young boy Swimwear,Unknown,4,0.04,0.0095
+Young Boy Trouser,Unknown,51,1.51,0.0296
+Young Boy UW/NW,Unknown,44,0.83,0.0189
+Young Girl Big Acc,Unknown,9,0.16,0.0181
+Young Girl Denim,Unknown,188,5.59,0.0297
+Young Girl Dresses,Unknown,57,1.17,0.0206
+Young Girl Jersey Basic,Unknown,131,1.96,0.015
+Young Girl Jersey Fancy,Unknown,342,6.14,0.018
+Young Girl Knitwear,Unknown,54,0.95,0.0176
+Young Girl Outdoor,Unknown,58,3.2,0.0552
+Young Girl S&T,Unknown,34,0.49,0.0145
+Young Girl Shoes,Unknown,12,0.49,0.0412
+Young Girl Swimwear,Unknown,7,0.08,0.0116
+Young Girl Trouser,Unknown,37,0.84,0.0228
+Young Girl UW/NW,Unknown,90,1.48,0.0164
