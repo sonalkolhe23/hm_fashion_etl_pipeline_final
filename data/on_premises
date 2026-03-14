@@ -1,0 +1,2 @@
+Note: The on_premise/ folder is intentionally left empty. The required file (transactions_train.csv) is not included due to GitHub’s 100 MB file size limit. Please download it from the Kaggle dataset
+ and place it in this folder before running the pipeline.
