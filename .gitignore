@@ -1,0 +1,14 @@
+# ignore large data files
+data/on_premise/transactions_train.csv
+data/object_storage/articles.csv
+data/object_storage/customers.csv
+
+# ignore output csvs
+outputs/
+
+# ignore python cache
+__pycache__/
+*.pyc
+
+# ignore zip files
+*.zip
