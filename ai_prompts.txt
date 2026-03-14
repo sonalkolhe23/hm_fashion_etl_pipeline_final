@@ -1,0 +1,14 @@
+AI Tool Prompts Used During Project Development
+
+Tool: Claude (claude.ai)
+Date: March 2026
+
+Prompt 1: How can I design ETL pipeline for H&M using PostgreSQL that ingests data from two sources — Object Storage (articles.csv and customers.csv) and On-Premise (transactions_train.csv) — and builds a star schema for analysis?
+
+Prompt 2: How should I structure a PostgreSQL star schema for H&M with dim_articles, dim_customers, dim_date, and fact_sales tables, including indexes, foreign key constraints, and a single enriched view joining all four tables?
+
+Prompt 3: What are six meaningful retail business questions I can answer from the H&M transaction, article, and customer data, covering areas like category revenue, top products, monthly trends, customer segmentation, online vs in-store comparison, and loyalty analysis?
+
+Prompt 4: How can I implement a production-quality Python ETL pipeline that extracts from these two source folders, transforms the data with pandas, loads it into PostgreSQL efficiently using execute_values, and then runs the six SQL business objectives saving the results as CSV files?
+
+Prompt 5: How can I create a script to add a test article, a test customer, and two transactions to the source files, and then rerun the pipeline to demonstrate incremental loading for verification purposes?
